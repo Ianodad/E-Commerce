@@ -1,6 +1,6 @@
 [submodule "Server"]
 	path = Server
-	url = https://github.com/Ianodad/commerce.git
+	url = https://github.com/Ianodad/commerce-server.git
 [submodule "Client"]
 	path = Client
-	url = https://github.com/Ianodad/commerce-server.git
+	url = https://github.com/Ianodad/commerce.git
